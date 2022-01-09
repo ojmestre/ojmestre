@@ -4,7 +4,7 @@
 
 I'm currently teaching myself front-end development and these are a few of my projects. <br>
 
-My background is in Mechanical and Industrial engineering, but when I joined my current Human Systems Integration team I fell in love with approaching and tackling
+My background is in Mechanical and Industrial engineering, but when I joined my current Human Systems Integration team, I fell in love with approaching and tackling
 problems from the users point of view.  Since then, I've used and grown my skills to aid and empower our users so they can be more efficient, effective, and 
 enjoy their job!
 
