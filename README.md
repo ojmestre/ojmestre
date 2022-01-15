@@ -14,7 +14,7 @@ Outside of working I enjoy outdoor activities like skiing, hiking and gardening.
 <h5> Connect with me on <a href="https://www.linkedin.com/in/oliver-mestre-244b7021a/">LinkedIn </a> </h5>
 <br>
 
-👀 I’m interested in:
+🌱 I practice, am interested in and learning more about:
 - User cenetered design processes, like task analyses, heuristic evaluations, ergonomic assessments... <br>
 - HTML <br>
 - CSS <br>
@@ -24,11 +24,6 @@ Outside of working I enjoy outdoor activities like skiing, hiking and gardening.
 - MATLAB <br>
 - Tableau <br>
 - Prototype development and collaboration software, such as: Axure, Figma, Miro, etc. <br> <br>
-
-🌱 I’m currently learning:
-- HTML <br>
-- CSS <br>
-- Other front end development...
 
 
 <!---
