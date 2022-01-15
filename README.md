@@ -2,7 +2,7 @@
 
 <h3> About Me </h3>
 
-I'm currently teaching myself front-end development and these are a few of my projects. <br>
+I'm currently teaching myself some front-end development, such as HTML, and these are a few of my projects. I've also included some data visualizations as a lot of my work focuses on analyzing user surveys and physiological data. <br>
 
 My background is in Mechanical and Industrial engineering, but when I joined my current Human Systems Integration team, I fell in love with approaching and tackling
 problems from the users point of view.  Since then, I've used and grown my skills to aid and empower our users so they can be more efficient, effective, and 
