@@ -15,7 +15,7 @@ Outside of working I enjoy outdoor activities like skiing, hiking and gardening.
 <br>
 
 🌱 I practice, am interested in and learning more about:
-- User cenetered design processes, like task analyses, heuristic evaluations, ergonomic assessments... <br>
+- User centered design processes, like task analyses, heuristic evaluations, ergonomic assessments... <br>
 - HTML <br>
 - CSS <br>
 - Javascript <br> 
