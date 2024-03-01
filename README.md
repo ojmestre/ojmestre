@@ -4,9 +4,8 @@
 
 I'm currently teaching myself some front-end development, such as HTML, and these are a few of my projects. I've also included some data visualizations as a lot of my work focuses on analyzing user surveys and physiological data. <br>
 
-My background is in Mechanical and Industrial engineering, but when I joined my current Human Systems Integration team, I fell in love with approaching and tackling
-problems from the users point of view.  Since then, I've used and grown my skills to aid and empower our users so they can be more efficient, effective, and 
-enjoy their job!
+My background is in Mechanical and Industrial engineering, but when I joined the Human Systems Integration team, I fell in love with approaching and tackling
+problems from the users point of view.  Since then, I've used and grown my skills to aid and empower our users so they can be more efficient, effective and data-driven!
 
 Outside of working I enjoy outdoor activities like skiing, hiking and gardening.  When I'm inside I like to watch sports, movies, or play video games or board games!
 
